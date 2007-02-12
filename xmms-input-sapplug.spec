@@ -1,5 +1,5 @@
 Summary:	SAP music input plugin for XMMS
-Summary(pl.UTF-8):   Wtyczka wejściowa dla XMMS-a odtwarzająca muzykę w formacie SAP
+Summary(pl.UTF-8):	Wtyczka wejściowa dla XMMS-a odtwarzająca muzykę w formacie SAP
 Name:		xmms-input-sapplug
 Version:	0.31
 Release:	1
